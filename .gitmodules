@@ -1,3 +1,6 @@
 [submodule "git_modules/DR.Components.Projects"]
 	path = git_modules/DR.Components.Projects
 	url = git@github.com:krurschak/DR.Components.Projects.git
+[submodule "git_modules/DR.Frameworks.Projects"]
+	path = git_modules/DR.Frameworks.Projects
+	url = git@github.com:krurschak/DR.Frameworks.Projects.git
