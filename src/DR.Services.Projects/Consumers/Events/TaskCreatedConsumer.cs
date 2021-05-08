@@ -1,10 +1,7 @@
 ﻿using DR.Components.Projects.Events;
-using DR.Frameworks.Projects.Dto;
 using DR.Frameworks.Projects.Models;
 using DR.Packages.Mongo.Repository;
 using MassTransit;
-using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace DR.Services.Projects.Consumers.Events
